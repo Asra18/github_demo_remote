@@ -1,0 +1,23 @@
+//div fun
+def add(x,y):
+    return x+y
+//div fun
+def subtract(x,y):
+    return x-y 			#on master branch
+//div fun
+def multiply(x,y):
+    return x*y		#on bug 456
+//div fun
+def divide(x,y):
+    if y==0		#on master branch
+	return DIVIDE_BY_0_ERROR
+    else
+	return x/y		
+
+
+
+//square functn implementation
+def square(x):
+	pass
+
+
